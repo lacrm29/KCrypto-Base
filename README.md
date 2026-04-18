@@ -1,6 +1,5 @@
 # KCrypto-Base
 # Personal Page
-## Personal Page
 
 This page represents my journey in Web3, focusing on consistent activity and exploration within the Base ecosystem.
 ## Background
