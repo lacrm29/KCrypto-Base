@@ -11,3 +11,12 @@ Focused on dApps, transactions, and community engagement.
 - Build consistent GitHub activity
 # Kaira Studio
 # YT Channel
+## YouTube Content Strategy
+
+This channel focuses on AI-generated visuals and cinematic universe building.  
+Using AI tools to create immersive environments, stories, and visual experiences.
+
+Content includes:
+- AI generated cinematic scenes  
+- World-building concepts  
+- Visual storytelling experiments
