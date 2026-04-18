@@ -20,3 +20,7 @@ Content includes:
 - AI generated cinematic scenes  
 - World-building concepts  
 - Visual storytelling experiments
+## Content Evolution
+
+The project evolves from visual storytelling into Web3 integration.  
+Exploring how AI content can connect with blockchain ecosystems.
