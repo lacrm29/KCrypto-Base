@@ -24,3 +24,10 @@ Content includes:
 
 The project evolves from visual storytelling into Web3 integration.  
 Exploring how AI content can connect with blockchain ecosystems.
+## Future Direction
+
+- Tokenized content models  
+- Community-driven storytelling  
+- Integration with Base ecosystem  
+
+Goal is to combine AI-generated content with onchain interaction.
