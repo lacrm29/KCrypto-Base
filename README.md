@@ -40,6 +40,9 @@ To combine cinematic AI content with blockchain-based interaction systems.
 - Build a community around content  
 - Integrate Base ecosystem features  
 - Explore tokenized content models
+## Integration with Base
+
+Exploring how creative content can connect with onchain systems, including transactions, NFTs, and community engagement.
   
 # YT Channel
 ## YouTube Content Strategy
