@@ -35,7 +35,12 @@ To combine cinematic AI content with blockchain-based interaction systems.
 - AI visual production  
 - Story-driven content  
 - Onchain activity tracking  
+## Long-Term Goals
 
+- Build a community around content  
+- Integrate Base ecosystem features  
+- Explore tokenized content models
+  
 # YT Channel
 ## YouTube Content Strategy
 
