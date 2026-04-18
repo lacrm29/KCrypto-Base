@@ -27,6 +27,9 @@ Maintaining daily activity across GitHub, Base network, and content creation pla
 
 # Kaira Studio
 Kaira Studio is a creative space focused on AI-generated visuals and Web3 experimentation.
+## Vision
+
+To combine cinematic AI content with blockchain-based interaction systems.
 
 # YT Channel
 ## YouTube Content Strategy
