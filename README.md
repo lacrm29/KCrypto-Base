@@ -14,7 +14,11 @@ Focused on dApps, transactions, and community engagement.
 
 - Base ecosystem activity  
 - AI generated content  
-- dApp interactions  
+- dApp interactions
+- ## Workflow
+
+Maintaining daily activity across GitHub, Base network, and content creation platforms.
+
 ## Goals
 
 - Stay active on Base
