@@ -24,7 +24,10 @@ Maintaining daily activity across GitHub, Base network, and content creation pla
 - Stay active on Base
 - Explore new dApps
 - Build consistent GitHub activity
-# Kaira Studio
+
+## Kaira Studio
+
+Kaira Studio is a creative space focused on AI-generated visuals and Web3 experimentation.
 # YT Channel
 ## YouTube Content Strategy
 
