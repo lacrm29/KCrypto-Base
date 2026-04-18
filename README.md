@@ -11,6 +11,11 @@ Actively experimenting with onchain tools and digital ecosystems.
 
 I am actively exploring the Base ecosystem and building consistent onchain activity.  
 Focused on dApps, transactions, and community engagement.
+## Current Focus
+
+- Base ecosystem activity  
+- AI generated content  
+- dApp interactions  
 ## Goals
 
 - Stay active on Base
