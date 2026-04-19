@@ -8,3 +8,6 @@ Exploring how content can connect with blockchain systems.
 ## NFT Usage
 - Minting digital content
 - Ownership tracking
+## Token Model
+- Reward-based interaction
+- Community incentives
