@@ -14,3 +14,6 @@ Focus on AI-generated visuals and storytelling.
 ## Growth Plan
 - Consistent content posting
 - Community engagement
+## Platform Strategy
+- Focus on social media distribution
+- Multi-platform presence
