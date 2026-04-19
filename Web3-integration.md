@@ -23,3 +23,6 @@ Exploring how content can connect with blockchain systems.
 ## User Behavior
 - Consistent activity patterns
 - Regular transaction flow
+## Onchain Identity
+- Wallet-based interaction
+- Activity-based reputation
