@@ -5,3 +5,6 @@ Exploring how content can connect with blockchain systems.
 ## Base Focus
 - Onchain activity
 - User interaction
+## NFT Usage
+- Minting digital content
+- Ownership tracking
