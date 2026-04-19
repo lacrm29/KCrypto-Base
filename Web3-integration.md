@@ -17,3 +17,6 @@ Exploring how content can connect with blockchain systems.
 ## Future Integration
 - Connecting AI content with onchain systems
 - Expanding Base ecosystem usage
+## Smart Contracts
+- Interaction with deployed contracts
+- Basic contract usage
