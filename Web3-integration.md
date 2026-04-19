@@ -29,6 +29,4 @@ Exploring how content can connect with blockchain systems.
 ## Future Scaling
 - Expanding usage across multiple dApps
 - Increasing transaction frequency
-## Content Format
-- Short-form videos
-- Cinematic visuals
+
