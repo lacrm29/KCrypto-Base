@@ -8,3 +8,6 @@ Focus on AI-generated visuals and storytelling.
 ## Distribution
 - Social platforms
 - Short-form video content
+## Audience
+- Web3 users
+- AI content enthusiasts
