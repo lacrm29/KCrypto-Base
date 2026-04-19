@@ -14,3 +14,6 @@ Performed multiple transactions and tested different features
 
 ## Day 5
 Maintained consistent activity and monitored performance
+
+## Day 6
+Explored new tools and continued onchain interactions
