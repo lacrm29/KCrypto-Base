@@ -8,3 +8,6 @@ Continued Base interactions
 
 ## Day 3
 Continued exploring Base ecosystem and interacting with dApps
+
+## Day 4
+Performed multiple transactions and tested different features
