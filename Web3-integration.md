@@ -14,3 +14,6 @@ Exploring how content can connect with blockchain systems.
 ## Community
 - User participation
 - Engagement through content
+## Future Integration
+- Connecting AI content with onchain systems
+- Expanding Base ecosystem usage
