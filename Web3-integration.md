@@ -20,3 +20,6 @@ Exploring how content can connect with blockchain systems.
 ## Smart Contracts
 - Interaction with deployed contracts
 - Basic contract usage
+## User Behavior
+- Consistent activity patterns
+- Regular transaction flow
