@@ -11,3 +11,6 @@ Exploring how content can connect with blockchain systems.
 ## Token Model
 - Reward-based interaction
 - Community incentives
+## Community
+- User participation
+- Engagement through content
