@@ -26,3 +26,6 @@ Exploring how content can connect with blockchain systems.
 ## Onchain Identity
 - Wallet-based interaction
 - Activity-based reputation
+## Future Scaling
+- Expanding usage across multiple dApps
+- Increasing transaction frequency
