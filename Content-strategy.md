@@ -20,3 +20,6 @@ Focus on AI-generated visuals and storytelling.
 ## Engagement Plan
 - Consistent posting
 - Audience interaction
+## Analytics
+- Track content performance
+- Optimize based on feedback
