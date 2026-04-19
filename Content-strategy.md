@@ -23,3 +23,6 @@ Focus on AI-generated visuals and storytelling.
 ## Analytics
 - Track content performance
 - Optimize based on feedback
+## Expansion
+- Scaling content production
+- Integrating Web3 features
