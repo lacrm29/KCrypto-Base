@@ -11,3 +11,6 @@ Continued exploring Base ecosystem and interacting with dApps
 
 ## Day 4
 Performed multiple transactions and tested different features
+
+## Day 5
+Maintained consistent activity and monitored performance
