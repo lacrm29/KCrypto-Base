@@ -6,3 +6,6 @@
 ## Content Ideas
 - Short videos
 - Visual storytelling
+## Web3 Ideas
+- Onchain engagement
+- Token-based systems
