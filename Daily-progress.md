@@ -20,3 +20,5 @@ Explored new tools and continued onchain interactions
 
 ## Day 7
 Reviewed activity patterns and continued daily usage
+## Day 8
+Continued Base activity and monitoring
