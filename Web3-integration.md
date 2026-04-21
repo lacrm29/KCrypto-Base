@@ -29,4 +29,6 @@ Exploring how content can connect with blockchain systems.
 ## Future Scaling
 - Expanding usage across multiple dApps
 - Increasing transaction frequency
-
+## Interaction Patterns
+- Regular usage behavior
+- Consistent transaction flow
