@@ -9,3 +9,6 @@ This file contains general notes about ongoing activities in the Base ecosystem.
 ## Observations
 - Stable transaction flow
 - Smooth user experience
+## Improvements
+- Increase activity variety
+- Test new protocols
