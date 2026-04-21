@@ -6,3 +6,6 @@ This file contains general notes about ongoing activities in the Base ecosystem.
 - Tracking daily interactions
 - Exploring different dApps
 - Maintaining consistency
+## Observations
+- Stable transaction flow
+- Smooth user experience
