@@ -26,3 +26,6 @@ Focus on AI-generated visuals and storytelling.
 ## Expansion
 - Scaling content production
 - Integrating Web3 features
+## Consistency
+- Regular posting schedule
+- Balanced engagement
