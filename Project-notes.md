@@ -12,3 +12,6 @@ This file contains general notes about ongoing activities in the Base ecosystem.
 ## Improvements
 - Increase activity variety
 - Test new protocols
+## Notes Update
+- Continued Base usage
+- Monitoring activity trends
