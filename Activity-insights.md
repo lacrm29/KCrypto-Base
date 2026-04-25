@@ -14,3 +14,7 @@ This document tracks insights based on ongoing activity within the Base ecosyste
 ## Usage Patterns
 - Daily interaction improves consistency
 - Small transactions create natural activity
+
+## Transaction Behavior
+- Repeated swaps show active usage
+- Different tokens increase diversity
