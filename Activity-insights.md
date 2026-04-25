@@ -22,3 +22,7 @@ This document tracks insights based on ongoing activity within the Base ecosyste
 ## Observed Trends
 - Activity spread across days looks more natural
 - Balanced usage avoids sudden spikes
+
+## Efficiency
+- Low-cost transactions maintain sustainability
+- Regular activity is more effective than bursts
