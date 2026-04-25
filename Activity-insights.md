@@ -26,3 +26,7 @@ This document tracks insights based on ongoing activity within the Base ecosyste
 ## Efficiency
 - Low-cost transactions maintain sustainability
 - Regular activity is more effective than bursts
+
+## Summary
+- Consistency is key
+- Diverse interactions strengthen activity profile
