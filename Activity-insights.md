@@ -18,3 +18,7 @@ This document tracks insights based on ongoing activity within the Base ecosyste
 ## Transaction Behavior
 - Repeated swaps show active usage
 - Different tokens increase diversity
+
+## Observed Trends
+- Activity spread across days looks more natural
+- Balanced usage avoids sudden spikes
