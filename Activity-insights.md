@@ -10,3 +10,7 @@ This document tracks insights based on ongoing activity within the Base ecosyste
 ## Initial Findings
 - Transactions remain consistent
 - Activity spread improves overall profile
+
+## Usage Patterns
+- Daily interaction improves consistency
+- Small transactions create natural activity
